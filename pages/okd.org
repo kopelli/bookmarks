@@ -1,4 +1,4 @@
-#+TITLE: https://www.okd.io/
+#+TITLE: okd
 
 ** The Community Distribution of Kubernetes that powers Red Hat OpenShift.
 ** Built around a core of OCI container packaging and Kubernetes container cluster management, OKD is also augmented by application lifecycle management functionality and DevOps tooling. OKD provides a complete open source container application platform.
