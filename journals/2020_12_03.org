@@ -1,4 +1,5 @@
 #+TITLE: Dec 3rd, 2020
 
 ** history | grep -e "\\]\\sgit" | cut -d ' ' -f7- | sort | uniq -c | sort -k1,1nr -k2
+*** Adapted from https://httptoolkit.tech/blog/find-best-git-aliases/
 **
